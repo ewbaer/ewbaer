@@ -2,7 +2,7 @@
 
 ###  Sophomore IS Student | Software Enthusiast
 
-I'm currently building a personal finance tracker in C# using WPF + MVVM — complete with login, CSV export, live charting, and email integration.
+I'm currently building a personal finance tracker in C# using WPF + MVVM, complete with login, CSV export, live charting, and email integration.
 
 ---
 
