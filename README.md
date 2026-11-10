@@ -1,26 +1,11 @@
-#  Ethan Baer
+# Ethan Baer
 
-###  Junior IS Student | Software Enthusiast
+I’m studying Information Systems at Illinois State University with a focus on AI and Decision Making. I’m also an Automation Engineer Intern on OSF HealthCare’s Advanced Analytics team, where I build and support automations.
 
-I'm currently building a personal finance tracker in C# using WPF + MVVM, complete with login, CSV export, live charting, and email integration.
+## Projects
 
----
+- **[Personal Writing Style AI](https://github.com/ewbaer/Personal-Writing-Style-AI)** — An independent study project where I built a web app to rewrite AI-generated text and tested how model training affects the results.
+- **[Luigi’s Mansion Map Editor](https://github.com/ewbaer/luigis-mansion-map-editor)** — A C++ project based on Booldozer. I added direct Dolphin launching and used it to test a custom Foyer replacement in-game. The repo shows the before and after.
+- **Finance Tracker** — A C# and WPF desktop app for tracking income and expenses, charting balances, and exporting transactions to CSV.
 
-###  Tech Stack
-
-- **Languages**: Python, SQL, HTML, C, C++, C#, CSS, JavaScript, Java, Java FX, Visual Basic, LUA, HTML, XAML 
-- **Tools**: Visual Studio, Eclipse, Office 365, VS Code, Unity, CLion, PyCharm, Android Studio  
-- **Interests**: Backend Development, Frontend Development, UI/UX, Software Development, Game Development
-
----
-
-###  Current Projects
-
--  **Finance Tracker App**  
-  WPF desktop app with login, graphing, export/email, and clean UI.  
-  > _Working on balance-based graphing and export enhancements._
-
-###  Let's Connect
-
-- Email: ewbaer@ilstu.edu  
-- LinkedIn: https://www.linkedin.com/in/ethan-baer1/
+I work most often with Python, C#, SQL, and UiPath. [Connect with me on LinkedIn](https://www.linkedin.com/in/ethan-baer1/).
